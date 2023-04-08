@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "3e0bc02416897c62",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c39e67c45487b86",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Circus Tent.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68afbf7b2b269b24",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3c33a4983ab421f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3819274f2e469745",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c6193564e7c443f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30cbc4efd61a92c7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6eb30fee140f87cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2e686595d4dcf24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d824afba350478f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Circus Tent.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bafd8d9d6827ebd3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Circus Tent.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65577dad11e69b1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2e96b3f93a8c008",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Circus Tent.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9c39e67c45487b86",
+  "lastOpenFiles": [
+    "Implementation STRIDE-N.md",
+    "Circus Tent.md"
+  ]
+}

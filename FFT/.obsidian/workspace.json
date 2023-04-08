@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "ad7e733b5bf15d53",
+    "type": "split",
+    "children": [
+      {
+        "id": "219621cc16194343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfbc7a7f061a45c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28132ae5cb0c6814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem explanation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef17b9129b179af2",
+    "type": "split",
+    "children": [
+      {
+        "id": "90b1fb6c417a0469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdea7d8f33168b05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d26c73a0c0646b41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75e3931c300f0eed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5fc2f092282a27a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "73fe51952e40a9d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fa7150c1c12a639",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Problem explanation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32feed1aa7b9e9db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Problem explanation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41b4b022507cf11d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a87eb62299e810f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Problem explanation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "28132ae5cb0c6814",
+  "lastOpenFiles": [
+    "Foundation.md",
+    "Problem explanation.md",
+    "PFC 1.md",
+    "PFC.md",
+    "Pasted image 20230213084731.png"
+  ]
+}

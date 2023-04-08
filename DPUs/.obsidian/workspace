@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "f25fd024c36c6d31",
+    "type": "split",
+    "children": [
+      {
+        "id": "a029ae5bd911b8e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "to-do.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "989c95009fb2de10",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e2d2f2dea537407",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0324412d2b62bd92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "69f26eb9d1461fb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09f6f8b4e68f87aa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d013245fd15cba1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d78292850fbcc2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88fdc4d74a08ae3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "to-do.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a27445a36444cfb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "to-do.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ccefcb6f379e466f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51371901e7012668",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "to-do.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a029ae5bd911b8e0",
+  "lastOpenFiles": [
+    "Predicting execution time.md",
+    "Compiler Optimization.md",
+    "DL offloading.md",
+    "DPUs, NICs, smartNICs.md",
+    "Korean Paper.md",
+    "Pasted image 20220921164902.png",
+    "Virtualized Functions.md",
+    "to-do.md"
+  ]
+}
